@@ -1,0 +1,2 @@
+# Emotion_Detection
+Automatic identification of emotions from texual data has been an interesting area of research in the recent times. With the exponentially growing number of online users, emotion identification of the textual data being read by the users can help in providing a comforting environment to the readers.The proposed methodology comprises of data pre-processing. Classification is attempted on the preprocessed data to classify the emotions as positive, negative, mixed or neutral.
